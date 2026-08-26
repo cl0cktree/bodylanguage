@@ -1,0 +1,269 @@
+<!DOCTYPE HTML5>
+<html>
+	<head>
+		<title> Body-language </title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="../css/style.css" />
+		<script type="text/javascript" src="../js/jquery-1.7.2.min.js"></script>
+		<script type="text/javascript" src="../js/move.js"></script>
+	</head>
+
+	<body>
+		<div id="body-sec-wrap16" class="body-sec-wrap">
+			<div id="body-sec-toptitle1" class="body-sec-toptitle">
+				<div id="sec-toptitle-backbtn1" class="sec-toptitle-backbtn">
+					< 이전
+					<a href="sub2-1.html"><div id="toptitle-backbtn-filter1" class="toptitle-backbtn-filter"></div></a>
+					<div id="toptitle-backbtn-filter3" class="toptitle-backbtn-filter"></div>
+					<div id="toptitle-backbtn-filter5" class="toptitle-backbtn-filter"></div>
+				</div>
+				<div id="sec-toptitle-logo1" class="sec-toptitle-logo">
+					<img src="../images/logo-size3.jpg" alt="">
+				</div>
+			</div>
+			<div id="body-art-wrap1" class="body-art-wrap">
+				<div id="body-sec-scroll1" class="body-sec-scroll">
+					<div id="sec-scroll-table1" class="sec-scroll-table">
+						<div id="scroll-table-title1" class="scroll-table-title">
+							<div id="table-title-word1" class="table-title-word">
+								
+							</div>
+							
+							
+						</div>
+						<div id="scroll-table-con1" class="scroll-table-con">
+							<div id="table-con-col1" class="table-con-col">
+								<div id="con-col-img1" class="con-col-img">
+									<img src="../images/smallimg1.bmp" alt="">
+								</div>
+								<div id="con-col-info1" class="con-col-info">
+									<div id="col-info-top1" class="col-info-all">
+										김ㅇ철 / 영어
+									</div>
+									<div id="col-info-middle1" class="col-info-all">
+										미국 - 라스베가스
+									</div>
+									
+								</div>
+								<div id="con-col-btnwrap1" class="con-col-btnwrap">
+									<div id="con-col-btn1" class="con-col-btn">
+										완료
+									</div>
+								</div>
+							</div>
+
+							<div id="table-con-col2" class="table-con-col">
+								<div id="con-col-img2" class="con-col-img">
+									<img src="../images/smallimg2.bmp" alt="">
+								</div>
+								<div id="con-col-info2" class="con-col-info">
+									<div id="col-info-top2" class="col-info-all">
+										최ㅇ영 / 영어
+									</div>
+									<div id="col-info-middle2" class="col-info-all">
+										미국 - 샌프란시스코
+									</div>
+									
+								</div>
+								<div id="con-col-btnwrap2" class="con-col-btnwrap">
+									<div id="con-col-btn2" class="con-col-btn">
+										대기
+									</div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+					
+					<div id="sec-scroll-whofilter1" class="sec-scroll-whofilter">
+						<div id="scroll-meetfilter-table1" class="scroll-meetfilter-table">
+							<div id="meetfilter-table-title1" class="meetfilter-table-title">
+								예약관리
+							</div>
+							<div id="meetfilter-table-coninfo1" class="meetfilter-table-coninfo">
+								<div id="table-coninfo-row1" class="table-coninfo-row">
+									
+									<div id="table-coninfo-con-cell2" class="table-coninfo-con-cell">
+										김ㅇ철 / 25
+									</div>
+								</div>
+								<div id="table-coninfo-row2" class="table-coninfo-row">
+									
+									<div id="table-coninfo-con-cell2" class="table-coninfo-con-cell">
+										미국 - 라스베가스
+									</div>
+								</div>
+								<div id="table-coninfo-row3" class="table-coninfo-row">
+									
+									<div id="table-coninfo-con-cell2" class="table-coninfo-con-cell">
+										한국어, 영어
+									</div>
+								</div>
+							</div>
+						</div>
+					
+						<div id="meetfilter-table-dday1" class="meetfilter-table-dday">
+							<div id="table-dday-scadule1" class="table-dday-scadule">
+								<div id="" class="dday-scadule-col">
+									01일 / 08 ~ 13시
+								</div>
+								<div id="" class="dday-scadule-col">
+									02일 / 08 ~ 18시
+								</div>
+								
+							</div>
+							
+						</div>
+						<div id="meetfilter-table-message1" class="meetfilter-table-message">
+							<div id="table-message-title1" class="table-message-title">
+								통역자에게 요청사항
+							</div>
+							<div id="table-message-box1" class="table-message-box">
+								A4 2장 분량 원고 번역해주실 구합니다.
+								영화 대본으로 실질적인 의역이 필요합니다.
+							</div>
+						</div>
+						<div id="meetfilter-table-paybtnwrap1" class="meetfilter-table-paybtnwrap">
+							
+							<div id="who-table-paybtn3" class="meetfilter-table-paybtn2">
+								메시지 보내기
+							</div>
+						</div>
+					</div>
+
+					<div id="sec-scroll-whofilter2" class="sec-scroll-whofilter">
+						<div id="scroll-meetfilter-table1" class="scroll-meetfilter-table">
+							<div id="meetfilter-table-title1" class="meetfilter-table-title">
+								예약관리
+							</div>
+							<div id="meetfilter-table-coninfo1" class="meetfilter-table-coninfo">
+								<div id="table-coninfo-row1" class="table-coninfo-row">
+									
+									<div id="table-coninfo-con-cell2" class="table-coninfo-con-cell">
+										최ㅇ영 / 40
+									</div>
+								</div>
+								<div id="table-coninfo-row2" class="table-coninfo-row">
+									
+									<div id="table-coninfo-con-cell2" class="table-coninfo-con-cell">
+										미국 - 샌프란시스코
+									</div>
+								</div>
+								<div id="table-coninfo-row3" class="table-coninfo-row">
+									
+									<div id="table-coninfo-con-cell2" class="table-coninfo-con-cell">
+										한국어, 영어
+									</div>
+								</div>
+							</div>
+						</div>
+					
+						<div id="meetfilter-table-dday1" class="meetfilter-table-dday">
+							<div id="table-dday-scadule1" class="table-dday-scadule">
+								<div id="" class="dday-scadule-col">
+									01일 / 08 ~ 13시
+								</div>
+								<div id="" class="dday-scadule-col">
+									03일 / 08 ~ 23시
+								</div>
+							</div>
+							
+						</div>
+						<div id="meetfilter-table-message1" class="meetfilter-table-message">
+							<div id="table-message-title1" class="table-message-title">
+								통역자에게 요청사항
+							</div>
+							<div id="table-message-box1" class="table-message-box">
+								미술관이나 박물관에서 작품에 대해 자세한
+								설명을 듣고 싶습니다.
+							</div>
+						</div>
+						<div id="meetfilter-table-paybtnwrap1" class="meetfilter-table-paybtnwrap">
+							<div id="who-table-paybtn1" class="meetfilter-table-paybtn1">
+								수락
+							</div>
+							<div id="who-table-paybtn2" class="meetfilter-table-paybtn1">
+								거절
+							</div>
+							<div id="who-table-paybtn4" class="meetfilter-table-paybtn2">
+								메시지 보내기
+							</div>
+						</div>
+					</div>
+					
+					<div id="sec-scroll-chatfilter1" class="sec-scroll-chatfilter">
+						<div id="scroll-chatfilter-title1" class="scroll-chatfilter-title">
+							변호사
+						</div>
+						<div id="scroll-chatfilter-chatcon1" class="scroll-chatfilter-chatcon">
+							<div id="" class="chatfilter-chatcon-talkwrap1">
+								<div id="" class="chatfilter-chatcon-talk1">
+									안녕하세요.
+								</div>
+								<div id="" class="chatfilter-chatcon-time">
+									오후 3:28
+								</div>
+							</div>
+							<div id="" class="chatfilter-chatcon-talkwrap2">
+								<div id="" class="chatfilter-chatcon-talk2">
+									네~안녕하세요.
+								</div>
+								<div id="" class="chatfilter-chatcon-time">
+									오후 3:29
+								</div>
+							</div>
+						</div>
+						<div id="chatfilter-chat-textwrap1" class="chatfilter-chat-textwrap">
+							<div id="chatfilter-chat-text1" class="chatfilter-chat-text">
+								<form method="post" action="">
+									<input type="text" name="" id="chatfilter-chat-textbox1" class="chatfilter-chat-textbox" value="입력해주세요." onclick="if(this.value=='입력해주세요.'){this.value='';style='color:#000;'}" onfocus="if(this.value=='입력해주세요.'){this.value='';style='color:#000;'}">
+								</form>
+							</div>
+							<div id="chatfilter-chat-textbtn1" class="chatfilter-chat-textbtn">
+								보내기
+							</div>
+							<div id="chat-textbtn-blockfilter1" class="chat-textbtn-blockfilter"></div>
+						</div>
+					</div>
+					
+					<div id="sec-scroll-chatfilter2" class="sec-scroll-chatfilter">
+						<div id="scroll-chatfilter-title1" class="scroll-chatfilter-title">
+							변호사
+						</div>
+						<div id="scroll-chatfilter-chatcon2" class="scroll-chatfilter-chatcon">
+							<div id="" class="chatfilter-chatcon-talkwrap1">
+								<div id="" class="chatfilter-chatcon-talk1">
+									안녕하세요.
+								</div>
+								<div id="" class="chatfilter-chatcon-time">
+									오후 3:28
+								</div>
+							</div>
+							<div id="" class="chatfilter-chatcon-talkwrap2">
+								<div id="" class="chatfilter-chatcon-talk2">
+									네~안녕하세요.
+								</div>
+								<div id="" class="chatfilter-chatcon-time">
+									오후 3:29
+								</div>
+							</div>
+						</div>
+						<div id="chatfilter-chat-textwrap1" class="chatfilter-chat-textwrap">
+							<div id="chatfilter-chat-text1" class="chatfilter-chat-text">
+								<form method="post" action="">
+									<input type="text" name="" id="chatfilter-chat-textbox2" class="chatfilter-chat-textbox" value="입력해주세요." onclick="if(this.value=='입력해주세요.'){this.value='';style='color:#000;'}" onfocus="if(this.value=='입력해주세요.'){this.value='';style='color:#000;'}">
+								</form>
+							</div>
+							<div id="chatfilter-chat-textbtn1" class="chatfilter-chat-textbtn">
+								보내기
+							</div>
+							<div id="chat-textbtn-blockfilter1" class="chat-textbtn-blockfilter"></div>
+						</div>
+					</div>
+
+				</div>
+				
+			</div>
+		</div>
+	</body>
+</html>

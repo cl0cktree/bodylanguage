@@ -1,0 +1,50 @@
+<!DOCTYPE HTML5>
+<html>
+	<head>
+		<title> Body-language </title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="../css/style.css" />
+		<script type="text/javascript" src="../js/jquery-1.7.2.min.js"></script>
+		<script type="text/javascript" src="../js/move.js"></script>
+	</head>
+
+	<body>
+		<div id="body-sec-wrap10" class="body-sec-wrap">
+			<div id="body-sec-toptitle1" class="body-sec-toptitle1">
+				
+			</div>
+			<div id="body-art-wrap1" class="body-art-wrap">
+				<div id="body-sec-scroll1" class="body-sec-scroll">
+					<div id="sec-scroll-mainlogo">
+						<a href="sub2.html"><img src="../images/mainlogo.jpg" alt=""></a>
+					</div>
+					<div id="sec-scroll-language">
+						<div id="scroll-language-btn1" class="scroll-language-btn2" onclick="window.open('sub2-2-1.html','_self')">
+							필요한 나라
+						</div>
+						<div id="scroll-language-btn2" class="scroll-language-btn2" onclick="window.open('sub2-2-2.html','_self')">
+							사용자 언어
+						</div>
+						<div id="scroll-language-btn3" class="scroll-language-btn2" onclick="window.open('sub2-2-3.html','_self')">
+							필요한 언어
+						</div>
+						<div id="scroll-language-btn4" class="scroll-language-btn2" onclick="window.open('sub2-2-4.html','_self')">
+							필요한 시간
+						</div>
+						<div id="scroll-language-btn5" class="scroll-language-btn" onclick="window.open('sub2-2-5.html','_self')">
+							검색
+						</div>
+					</div>
+				</div>
+				<div id="body-sec-bottom1" class="body-sec-bottom">
+					<div id="sec-bottom-btn3" class="sec-bottom-btn">
+						예약관리
+					</div>
+					<div id="sec-bottom-btn4" class="sec-bottom-btn">
+						설정
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
